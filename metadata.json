@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrace",
+  "description": "Explore Life Through Environmental DNA — Scientific platform for eDNA taxonomic classification, biodiversity assessment, and ecological reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
